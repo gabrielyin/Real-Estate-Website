@@ -14,7 +14,7 @@ root.render(
   <HouseContextProvider>
     <Router>
       <React.StrictMode>
-        <App />
+        <App/>
       </React.StrictMode>
     </Router>
   </HouseContextProvider>
